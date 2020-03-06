@@ -112,7 +112,6 @@
     watch:{
       books: function () {
         this.updateStorage()
-        console.log('check')
       }
     }
   }
